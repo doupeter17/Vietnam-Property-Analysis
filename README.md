@@ -44,6 +44,15 @@ Evaluation Metrics
 - Mean Absolute Error (MAE)
 
 ## Result 
+
+Here are some sample of findings:
+![Price Distribution](./picture/histprice.png "Price Distribution") 
+![EDA](./picture/pricefloor.png "Price vs Floors")
+![EDA](./picture/price_area.png "Price vs Area")
+![Correlation Matrix](./picture/correlation.png "Feature Correlations")
+![Model Estimation](./picture/model.png "Model Estimation")
+
+## Contact
 For questions or suggestions:
 
 Maintainer: Duong Quang Thanh

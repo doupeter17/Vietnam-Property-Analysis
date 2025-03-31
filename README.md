@@ -22,7 +22,7 @@ This project analyzes Vietnam's real estate market through:
 
 ## Dataset
 
-**Source**: Web-scraped from [batdongsan.vn](https://batdongsan.vn)  
+**Source**: Web-scraped from [batdongsan.vn](https://batdongsan.vn) in 2024
 **Size**: 30,229 property listings  
 **Features**: 12 attributes
 
